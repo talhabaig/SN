@@ -1,0 +1,146 @@
+{
+    "type": "Config",
+    "favicon": "/images/dog.png",
+    "header": {
+        "headerVariant": "variant-e",
+        "primaryColors": "colors-a",
+        "secondaryColors": "colors-a",
+        "isTitleVisible": false,
+        "primaryLinks": [
+            {
+                "type": "Link",
+                "label": "Home",
+                "url": "/",
+                "altText": "Home "
+            },
+            {
+                "type": "Link",
+                "label": "Photography",
+                "altText": "Photography by Stephen Norman",
+                "url": "/photography",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Video",
+                "altText": "Videos by Stephen Norman",
+                "url": "/video",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "About",
+                "altText": "About Stephen Norman",
+                "url": "/about",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Blog",
+                "altText": "Blog",
+                "url": "/blog"
+            },
+            {
+                "type": "Link",
+                "label": "Contact",
+                "altText": "Contact Stephen Norman",
+                "url": "/contact",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            }
+        ],
+        "secondaryLinks": [],
+        "styles": {
+            "self": {
+                "width": "narrow",
+                "padding": [
+                    "pt-10",
+                    "pb-10",
+                    "pr-4",
+                    "pl-4"
+                ]
+            }
+        },
+        "logo": {
+            "altText": "Stephen Norman Logo",
+            "elementId": "header-logo",
+            "styles": {
+                "self": {
+                    "opacity": 100
+                }
+            },
+            "type": "ImageBlock",
+            "url": "/images/SNPhotos-logo.webp"
+        },
+        "title": "Stephen Norman Photography"
+    },
+    "footer": {
+        "colors": "colors-a",
+        "logo": {
+            "altText": "RIP my friend Bobby",
+            "elementId": "",
+            "styles": {
+                "self": {
+                    "opacity": 100
+                }
+            },
+            "type": "ImageBlock",
+            "url": "/images/dog.png",
+            "caption": "RIP my friend Bobby"
+        },
+        "copyrightText": "By TL \n",
+        "primaryLinks": [],
+        "socialLinks": [
+            {
+                "type": "Social",
+                "label": "Youtube",
+                "altText": "Youtube Link ",
+                "url": "https://www.youtube.com/channel/UCjjw3wmGC7ezI5Cy08pXfug",
+                "icon": "youtube",
+                "style": "link",
+                "elementId": ""
+            },
+            {
+                "type": "Social",
+                "altText": "Instagram Link",
+                "label": "Instagram",
+                "url": "/",
+                "icon": "instagram"
+            }
+        ],
+        "legalLinks": [
+            {
+                "type": "Link",
+                "label": "Copyright © Stephen Norman",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
+            }
+        ],
+        "styles": {
+            "self": {
+                "width": "narrow",
+                "padding": [
+                    "pt-16",
+                    "pb-16",
+                    "pr-4",
+                    "pl-4"
+                ]
+            }
+        }
+    }
+}

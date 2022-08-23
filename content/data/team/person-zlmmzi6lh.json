@@ -1,0 +1,11 @@
+{
+    "type": "Person",
+    "firstName": "Stephen",
+    "lastName": "Norman",
+    "role": "Role",
+    "bio": "Let me introduce myself from a first person perspective, rather than a strange third person depiction.\n\nHi there! and thank you for stopping by. My name is Stephen Norman and I am a landscape & lifestyle photographer based in the south west of Western Australia.\n\nI have carried a camera on my shoulder in one way or another for almost 10 years now. This has led me to travel to various countries all over the world, creating photo & video content for clients along the way.\n\nHaving only scratched the surface, I welcome all visitors & potential clients to my journey.\n\n",
+    "image": {
+        "url": "/images/About Stephen Norman.webp",
+        "altText": "Stephen Norman"
+    }
+}
